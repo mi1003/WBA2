@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:collection xmlns:xs="http://www.example.org/Aufgabe3d"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/Aufgabe3d Aufgabe3d.xsd ">
+	<xs:rezept>
+		<xs:rezept-id>0</xs:rezept-id>
+		<xs:title>Apfelkuchen</xs:title>
+		<xs:autor>Helga2</xs:autor>
+		<xs:date>2006-03-03T12:00:00</xs:date>
+		<xs:picture
+			xs:uri="http://static.chefkoch-cdn.de/ck.de/rezepte/4/4682/285323-960x720-apfelkuchen.jpg" />
+		<xs:ingrediens xs:portion="0">
+			<xs:ingredient xs:amount="400" xs:name="Schlagsahne"
+				xs:unit="ml" />
+			<xs:ingredient xs:amount="200" xs:name="Zucker"
+				xs:unit="gram" />
+			<xs:ingredient xs:amount="1" xs:name="Vanillezucker"
+				xs:unit="pkt" />
+			<xs:ingredient xs:amount="1" xs:name="Zitrone" xs:unit="" />
+			<xs:ingredient xs:amount="1" xs:name="Backpulver"
+				xs:unit="pkt" />
+			<xs:ingredient xs:amount="375" xs:name="Mehl" xs:unit="gram" />
+			<xs:ingredient xs:amount="5" xs:name="Eier" xs:unit="" />
+			<xs:ingredient xs:amount="4" xs:name="Zitronensaft"
+				xs:unit="EL" />
+
+		</xs:ingrediens>
+		<xs:preparation>
+			<xs:arbeitszeit>20 Min.</xs:arbeitszeit>
+			<xs:schwierigkeitsgrad>simpel</xs:schwierigkeitsgrad>
+			<xs:brennwert>k.A.</xs:brennwert>
+			<xs:step>Äpfel schälen, vierteln, entkernen, längs in Spalten schneiden und mit dem Zitronensaft mischen.
+      Für den Teig Sahne in eine Rührschüssel gießen. Zucker, Vanillezucker und Zitronenschale zur Sahne geben und alles halbsteif schlagen. 
+      Die Eier einzeln unterrühren. Mehl und Backpulver sieben, kurz unterrühren. 
+      Teig in eine gefettete Saftpfanne streichen. 
+      Mit dem Apfelspalten belegen. 
+      Im heißen Ofen bei 200 Grad auf der zweiten Schiene von unten 15 Min. backen.Umluft: 160 Grad
+	Inzwischen für den Guss Fett, Zucker und Milch aufkochen, die Mandeln untermischen. Masse nach 15 Min. punktuell auf dem Kuchen verteilen. 
+	Weitere 15 Min. auf der zweiten Schiene von oben backen.</xs:step>
+		</xs:preparation>
+		<xs:comment>
+			<xs:autor>schokoerdbeerchen</xs:autor>
+			<xs:date>2006-03-03T15:21:00</xs:date>
+			<xs:text>Wollte grad das rezept eintragen, und hab dann doch nachgeschaut ob er vllt schon in der db ist und tatsächlich!! jedenfalls duftet jetzt das ganze haus dannach und ich muss mich schwer zusammenreißen nicht schon ans blech zu gehen...ein suuuper apfelkuchen, den ich nur empfehlen kann!!! 
+lg erdbeerchen</xs:text>
+			<xs:picture
+				xs:uri="http://static.chefkoch-cdn.de/ck.de/avatar/c38fe0679b9f0fb22dd5607a6d683512-60fix.jpg" />
+		</xs:comment>
+	</xs:rezept>
+
+
+	<xs:rezept>
+		<xs:rezept-id>0</xs:rezept-id>
+		<xs:title>Nudelsalat</xs:title>
+		<xs:autor>Andi130781</xs:autor>
+		<xs:date>2008-01-06T12:00:00</xs:date>
+		<xs:picture
+			xs:uri="http://static.chefkoch-cdn.de/ck.de/rezepte/93/93975/158771-960x720-nudelsalat-griechische-art.jpg" />
+		<xs:ingrediens xs:portion="0">
+			<xs:ingredient xs:amount="500" xs:name="Nudeln"
+				xs:unit="gram" />
+			<xs:ingredient xs:amount="1" xs:name="Paprikaschote"
+				xs:unit="" />
+			<xs:ingredient xs:amount="1" xs:name="Fleischwurst"
+				xs:unit="ring" />
+			<xs:ingredient xs:amount="1" xs:name="Wasser" xs:unit="Tasse" />
+			<xs:ingredient xs:amount="1" xs:name="Tasse" xs:unit="Zucker" />
+			<xs:ingredient xs:amount="1" xs:name="Currypulver"
+				xs:unit="EL" />
+			<xs:ingredient xs:amount="1" xs:name="Salz" xs:unit="EL" />
+		</xs:ingrediens>
+		<xs:preparation>
+			<xs:arbeitszeit>20 Min.</xs:arbeitszeit>
+			<xs:schwierigkeitsgrad>simpel</xs:schwierigkeitsgrad>
+			<xs:brennwert>k.A.</xs:brennwert>
+			<xs:step>Die Nudeln nach Packungsanweisung kochen. In eine Schüssel geben und abkühlen lassen.
+Die Paprikaschoten putzen. Die Fleischwurst pellen. 
+Beides in Würfel schneiden und unter die gekochten kalten Nudeln geben. 
+Das Wasser mit Zucker, Essig, Olivenöl und den Gewürze aufkochen. 
+Abkühlen lassen und über die Nudeln geben. Bis zum Verzehr 1 Nacht ziehen lassen.
+</xs:step>
+		</xs:preparation>
+		<xs:comment>
+			<xs:autor>denchen</xs:autor>
+			<xs:date>2008-03-30T18:00:00</xs:date>
+			<xs:text>Ist ganz einfach gemacht und schmeckt superlecker. Hatte den Salat für das Geburtstagsbuffett meiner Mutter gemacht und er war ruck zuck alle. 
+Werden wir jetzt öfters machen. 
+
+LG 
+denchen
+</xs:text>
+			<xs:picture
+				xs:uri="http://static.chefkoch-cdn.de/ck.de/avatar/ade407843f06e20a094ab260a393e121-60fix.jpg" />
+		</xs:comment>
+	</xs:rezept>
+</xs:collection>
